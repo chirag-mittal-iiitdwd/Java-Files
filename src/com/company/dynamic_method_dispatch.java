@@ -27,5 +27,8 @@ public class dynamic_method_dispatch {
         obj.turnOn();
         obj.condition();
 //        obj.music();  not allowed
+
+        smartPhone x=new smartPhone();
+        x.music();
     }
 }
